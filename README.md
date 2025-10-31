@@ -4,13 +4,7 @@ Predicting customer churn and retention strategy for a telecom company using mac
 
 ## 🧠 Project Overview
 This project helps a telecom company identify customers at high risk of leaving and provides actionable retention strategies.
-
-## 📂 Files in This Repository
-- **Telco_Customer_Churn_Analysis.ipynb** – Google Colab notebook for data analysis and model building  
-- **Telco_Customer_Churn_Report.docx** – Word report  
-- **Telco_Customer_Churn_Presentation.pptx** – Presentation slides  
-- **WA_Fn-UseC_-Telco-Customer-Churn.csv** – Dataset used  
-
+  
 ## ⚙️ Tools & Libraries
 - Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
